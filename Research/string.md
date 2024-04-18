@@ -1,4 +1,3 @@
-This is your Python code in a README file format:
 
 
 The Palindrome Checker and Symmetry
