@@ -14,3 +14,9 @@ python Baby.py
 
 
 The baby's chosen name will be produced by the script corresponding to the gender which was selected at random.
+
+Author
+Author: A. N. Other
+Date: September 2016
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
