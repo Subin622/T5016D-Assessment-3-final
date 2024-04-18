@@ -1,4 +1,5 @@
 Current Time Display Script
+
 This Python script obtains the current time and displays it in the hour, minute, and second forms.
 
 
